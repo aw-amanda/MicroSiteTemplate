@@ -1,13 +1,11 @@
-/* General Styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
 
-/* elsie-swash-caps-regular - latin */
 @font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-display: swap;
     font-family: 'Elsie Swash Caps';
     font-style: normal;
     font-weight: 400;
@@ -128,7 +126,7 @@
 
   #home {
     max-width: 100%;
-    background-image: url('/static/ProLandingPage3Background.jpg');
+    background-image: url('/static/Background.jpg');
     background-size: cover; /* or "contain" depending on what you want */
     background-position: center center;
     background-repeat: no-repeat;
@@ -139,7 +137,7 @@
 
   #about {
     max-width: 100%;
-    background-image: url('/static/ProLandingPage3AboutBackground.jpg');
+    background-image: url('/static/AboutBackground.jpg');
     background-size: cover; /* or "contain" depending on what you want */
     background-position: center center;
     background-repeat: no-repeat;
@@ -150,7 +148,7 @@
 
   #services {
     max-width: 100%;
-    background-image: url('/static/ProLandingPage3ServicesBackround.jpg');
+    background-image: url('/static/ServicesBackround.jpg');
     background-size: cover; /* or "contain" depending on what you want */
     background-position: center center;
     background-repeat: no-repeat;
@@ -161,7 +159,7 @@
 
   #projects {
     max-width: 100%;
-    background-image: url('/static/ProLandingPage3ProjectsBackground.jpg');
+    background-image: url('/static/ProjectsBackground.jpg');
     background-size: cover; /* or "contain" depending on what you want */
     background-position: center center;
     background-repeat: no-repeat;
@@ -172,7 +170,7 @@
 
   #contact {
     max-width: 100%;
-    background-image: url('/static/ProLandingPage3ContactBackground.jpg');
+    background-image: url('/static/ContactBackground.jpg');
     background-size: cover; /* or "contain" depending on what you want */
     background-position: center center;
     background-repeat: no-repeat;
