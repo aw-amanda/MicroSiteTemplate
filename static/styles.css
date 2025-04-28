@@ -200,7 +200,7 @@
   
   h1, h2 {
     background: linear-gradient(90deg, #00CED1, #20B2AA);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
   }
   
