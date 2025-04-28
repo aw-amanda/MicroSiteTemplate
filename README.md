@@ -1,2 +1,1 @@
-# ProLandingPage3
-One-page website written with HTML, CSS, and JavaScript; no backend.
+Simple MicroSite written with HTML, CSS, and JavaScript; no backend.
